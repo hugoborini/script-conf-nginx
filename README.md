@@ -10,4 +10,5 @@
 - follow the instruc and that all your nginx config is create
 
 > important !
+
 > the 3 first line of the usage is only for the installation !
